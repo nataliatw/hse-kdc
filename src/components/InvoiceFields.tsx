@@ -1,4 +1,3 @@
-import * as React from 'react'
 import type { Invoice } from '../utils/mockTodos'
 
 export function InvoiceFields({
